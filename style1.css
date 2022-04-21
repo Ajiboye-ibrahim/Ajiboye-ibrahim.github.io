@@ -125,7 +125,7 @@ li a{
 	color: #f6f6f6;;
 }
 .contain{
-	background-image: url('picture folder/image3.jpg');
+	background-image: url('image3.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	/* background-image: linear-gradient(to right, #436532, #762837, #832982); */
